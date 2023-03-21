@@ -3,13 +3,14 @@ Google Data Analytics Capstone Project Solution
 Google Data Analytics Capstone Project
 
 Table of Contents:
-Introduction
-Ask Phase
-Prepare Phase
-Process Phase
-Analyze Phase
-Share Phase
-Act Phase
+
+**Introduction**
+**Ask Phase**
+**Prepare Phase**
+**Process Phase**
+**Analyze Phase**
+**Share Phase**
+**Act Phase**
 
 Introduction
 
@@ -117,10 +118,15 @@ Supporting visualizations and key findings
 
 Act Phase
 Guiding Questions:
+
 What is your final conclusion based on your analysis?
+Final Conclusion is that numbers of riders who are members are more than casual riders but though average ride length is less for members.
 How could your team and business apply your insights?
+We can use this insights to develop perfect marketing strategy to make more casual riders into member
 What next steps would you or your stakeholders take based on your findings?
+My recommendations are that on weekends casual riders are using this benefit so if we give more offers on weekends we can drive more casual riders for this program as well as if we proivde some schemes such as after covering certain miles member can get one free ride or one day ride completely free.
 Is there additional data you could use to expand on your findings?
+If data like temperature and distance covered was recored with all the data it would be more useful for getting more insights.
 Key Tasks:
 Create your portfolio.
 Add your case study.
